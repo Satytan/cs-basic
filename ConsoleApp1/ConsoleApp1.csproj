@@ -47,6 +47,13 @@
     <Compile Include="t1\IterableDaysOfWeek.cs" />
     <Compile Include="t1\IterableMonth.cs" />
     <Compile Include="t1\L1.cs" />
+    <Compile Include="t2\Animal.cs" />
+    <Compile Include="t2\Cow.cs" />
+    <Compile Include="t2\Duck.cs" />
+    <Compile Include="t2\Flyable.cs" />
+    <Compile Include="t2\Giraffe.cs" />
+    <Compile Include="t2\L1.cs" />
+    <Compile Include="t2\Speaking.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
