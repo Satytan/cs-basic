@@ -34,12 +34,14 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Serialization" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
@@ -54,6 +56,10 @@
     <Compile Include="t2\Giraffe.cs" />
     <Compile Include="t2\L1.cs" />
     <Compile Include="t2\Speaking.cs" />
+    <Compile Include="t3\Dict.cs" />
+    <Compile Include="t3\L1.cs" />
+    <Compile Include="t3\Translator.cs" />
+    <Compile Include="t3\Words.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
