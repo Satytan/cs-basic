@@ -19,10 +19,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // Пример работы словаря и сохранения данных в текстовом формате
             t3.Translator.letsDoIt(args);
             return;
-            //int i, j;
-            //test(out i, ref j);
+
             // Выполнение первого упражнения
             //t1.L1.letsDoIt(args);
             Test t = new Test(), d;
