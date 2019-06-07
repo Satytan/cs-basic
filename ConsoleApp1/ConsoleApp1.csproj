@@ -60,6 +60,10 @@
     <Compile Include="t3\L1.cs" />
     <Compile Include="t3\Translator.cs" />
     <Compile Include="t3\Words.cs" />
+    <Compile Include="t4\CollectionClass.cs" />
+    <Compile Include="t4\L1.cs" />
+    <Compile Include="t4\SimpleClass.cs" />
+    <Compile Include="t4\TwoLevelClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

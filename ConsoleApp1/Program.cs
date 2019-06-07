@@ -19,6 +19,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // Пример сериализации и десереализации
+            t4.L1.letsDoIt(args);
+            return;
+
             // Пример работы словаря и сохранения данных в текстовом формате
             t3.Translator.letsDoIt(args);
             return;
